@@ -223,7 +223,7 @@ public class HueVIClient extends JFrame implements ActionListener, VMCreateDelet
 		}
 		else if(e.getSource() == developersItem) //if 'Developers' menu item is selected
 		{
-			String msg = "Developers: \n\nHumair Ahmed\nYi Huang\nAshaya Meshram";
+			String msg = "Developers: \n\nHumair Ahmed\nYi Huang";
 		    JOptionPane optionPane = new JOptionPane();
 		    optionPane.setMessage(msg);
 		    optionPane.setMessageType(JOptionPane.INFORMATION_MESSAGE);
