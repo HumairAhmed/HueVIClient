@@ -1,7 +1,15 @@
-Humair Ahmed
-humairahmed.com
-
-HueVIClient 1.0
+/* Author:   Humair Ahmed
+ * Program:  HueVIClient
+ * Version:  1.0
+ * Date:     03/15/2010
+ * Website:  http://www.HumairAhmed.com
+ * 
+ * Open source software being distributed under GPL license. For more information see here:
+ * http://www.gnu.org/copyleft/gpl.html. 
+ * 
+ * Can edit and redistribute code as long as above reference of authorship is kept within the code.
+ * 
+ */
 
 
 In addition to making sure you have Java installed on your system, make sure you have the VI (vSphere) Java API correctly installed and configured as an external library in your project.
